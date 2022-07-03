@@ -11,8 +11,8 @@
 ## 📷 Telas do app
 
 <div style="display: inline_block" align="center">
-    <img alt="Quiz" src="https://user-images.githubusercontent.com/45500812/177023947-6e1d7566-c513-46b9-898e-a13d444318f7.png" width="20%">
-    <img alt="Pontuação" src="https://user-images.githubusercontent.com/45500812/177023961-c5152b24-5802-4975-971e-e1a67d5c6e54.png" width="20%">
+    <img alt="Quiz" src="https://user-images.githubusercontent.com/45500812/177023947-6e1d7566-c513-46b9-898e-a13d444318f7.png" width="25%">
+    <img alt="Pontuação" src="https://user-images.githubusercontent.com/45500812/177023961-c5152b24-5802-4975-971e-e1a67d5c6e54.png" width="25%">
 </div>
 
 ## ✨ Tecnologias
